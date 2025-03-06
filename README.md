@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I'm Harshit</h1>
 <h3 align="center">A first year computer & communications engineering student from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitjhajharia&label=Profile%20views&color=0e75b6&style=flat" alt="harshitjhajharia" /> </p>
 
 - 🌱 I’m currently learning **Python, HTML and CSS**
 
@@ -10,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/harshit-jhajharia-28a65432b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitjhajharia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-jhajharia-28a65432b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-jhajharia-28a65432b/" height="30" width="40" /></a>
 <a href="https://instagram.com/harshitjhajharia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitjhajharia_" height="30" width="40" /></a>
 </p>
 
